@@ -1,2 +1,5 @@
 @import url("styles/header.css");
 
+:root{
+    --branco:white;
+}
